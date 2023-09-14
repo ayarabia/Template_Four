@@ -1,0 +1,1 @@
+import{j as e,L as a}from"./index-620559ea.js";function n(t){return e("div",{className:"d-flex ",children:e(a,{to:t.to,className:`text-light rounded px-2  m-1 ${t.className}`,children:t.text})})}export{n as G};
