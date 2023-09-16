@@ -1,1 +1,0 @@
-import{r as t,j as e,a}from"./index-620559ea.js";function r(n){const[s,c]=t.useState(!0);return e("div",{children:a("label",{className:"switch position-relative d-inline-block",children:[e("input",{type:"checkbox",className:"opacity-0",checked:s,onChange:()=>{c(!s)}}),e("span",{className:"slider round"})]})})}export{r as S};
